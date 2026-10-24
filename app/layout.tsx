@@ -49,7 +49,7 @@ export default function RootLayout({
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <head>
-        <script dangerouslySetInnerHTML={{ __html: "try{var l=new URLSearchParams(location.search).get('lang')||localStorage.getItem('site-lang');if(l==='ar'||l==='zh'||l==='ms'){document.documentElement.lang=l==='zh'?'zh-Hans':l;document.documentElement.dir=l==='ar'?'rtl':'ltr'}}catch(e){}" }} />
+        <script dangerouslySetInnerHTML={{ __html: "try{var l=new URLSearchParams(location.search).get('lang');try{localStorage.removeItem('site-lang')}catch(e){}if(l==='ar'||l==='zh'||l==='ms'){document.documentElement.lang=l==='zh'?'zh-Hans':l;document.documentElement.dir=l==='ar'?'rtl':'ltr'}}catch(e){}" }} />
         <link rel="preload" as="image" href={`${BASE}/img/hero-1600.webp`} media="(max-width: 760px)" />
         <link rel="preload" as="image" href={`${BASE}/img/hero.webp`} media="(min-width: 761px)" />
       </head>
