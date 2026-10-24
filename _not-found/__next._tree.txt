@@ -3,4 +3,4 @@
 :HL["/hotel-landing-page-design/img/hero.webp","image",{"media":"(min-width: 761px)"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"UutVDwmXxFMvY9uAXwDfM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Cw1kJePVDC-z7kyI_9N6E","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
