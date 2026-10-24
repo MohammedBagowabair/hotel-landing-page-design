@@ -1,4 +1,7 @@
+'use client'
+
 import { waLink } from '@/lib/site'
+import { useI18n } from '@/lib/i18n'
 
 export function WhatsAppIcon() {
   return (
@@ -7,8 +10,9 @@ export function WhatsAppIcon() {
 }
 
 export function WhatsAppButton() {
+  const { t } = useI18n()
   return (
-    <a className="wa-float" href={waLink()} target="_blank" rel="noopener noreferrer" aria-label="Chat with Selayang House on WhatsApp">
+    <a className="wa-float" href={waLink(t('Hello Selayang House, I would like to enquire about a stay.'))} target="_blank" rel="noopener noreferrer" aria-label={t("Chat with Selayang House on WhatsApp")}>
       <WhatsAppIcon />
     </a>
   )
