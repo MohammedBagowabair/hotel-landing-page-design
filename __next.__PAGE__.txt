@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/hotel-landing-page-design/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:I[47257,["$2"],"ClientPageRoot"]
+9:"/hotel-landing-page-design/_next/static/chunks/2t5rwd6w9xw6v.js"
+a:I[31713,["$2","$9"],"default"]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+:HL["/hotel-landing-page-design/_next/static/chunks/2q_s1d-8v9r-z.css","style"]
+:HL["/hotel-landing-page-design/img/hero-1600.webp","image",{"media":"(max-width: 760px)"}]
+:HL["/hotel-landing-page-design/img/hero.webp","image",{"media":"(min-width: 761px)"}]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L8",null,{"Component":"$a","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@b","$@c"]}}],[["$","script","script-0",{"src":"/hotel-landing-page-design/_next/static/chunks/2t5rwd6w9xw6v.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hotel-landing-page-design/_next/static/chunks/2q_s1d-8v9r-z.css","precedence":"next"}],["$","script","script-0",{"src":"/hotel-landing-page-design/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"image","href":"/hotel-landing-page-design/img/hero-1600.webp","media":"(max-width: 760px)"}],["$","link",null,{"rel":"preload","as":"image","href":"/hotel-landing-page-design/img/hero.webp","media":"(min-width: 761px)"}]]}],["$","body",null,{"className":"antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#314d3c"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Selayang House | Rainforest Retreat in Genting Highlands, Malaysia"}],["$","meta","1",{"name":"description","content":"Selayang House is a slow-living rainforest retreat in Genting Highlands, Malaysia. Garden terraces, suites and a pool villa. Enquire on WhatsApp +60 11-5119 8497."}],["$","meta","2",{"name":"application-name","content":"Selayang House"}],["$","link","3",{"rel":"manifest","href":"/hotel-landing-page-design/site.webmanifest"}],["$","link","4",{"rel":"canonical","href":"https://mohammedbagowabair.github.io/hotel-landing-page-design/"}],["$","meta","5",{"property":"og:title","content":"Selayang House | Rainforest Retreat in Genting Highlands, Malaysia"}],["$","meta","6",{"property":"og:description","content":"Selayang House is a slow-living rainforest retreat in Genting Highlands, Malaysia. Garden terraces, suites and a pool villa. Enquire on WhatsApp +60 11-5119 8497."}],["$","meta","7",{"property":"og:url","content":"https://mohammedbagowabair.github.io/hotel-landing-page-design/"}],["$","meta","8",{"property":"og:site_name","content":"Selayang House"}],["$","meta","9",{"property":"og:locale","content":"en_MY"}],["$","meta","10",{"property":"og:image","content":"https://mohammedbagowabair.github.io/hotel-landing-page-design/og-image.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Selayang House rainforest retreat"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Selayang House | Rainforest Retreat in Genting Highlands, Malaysia"}],["$","meta","17",{"name":"twitter:description","content":"Selayang House is a slow-living rainforest retreat in Genting Highlands, Malaysia. Garden terraces, suites and a pool villa. Enquire on WhatsApp +60 11-5119 8497."}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$6"}},"a":"$@1d","u":"$@1e","b":"bWju5r54Z1QaeXszZlBd4"}
+1f:I[27201,["$2"],"IconMark"]
+b:{}
+c:"$7:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+f:null
+15:["$","meta","18",{"name":"twitter:image","content":"https://mohammedbagowabair.github.io/hotel-landing-page-design/og-image.jpg"}]
+16:["$","link","19",{"rel":"icon","href":"/hotel-landing-page-design/favicon.svg","type":"image/svg+xml"}]
+17:["$","link","20",{"rel":"icon","href":"/hotel-landing-page-design/favicon-32.png","sizes":"32x32","type":"image/png"}]
+18:["$","link","21",{"rel":"icon","href":"/hotel-landing-page-design/favicon-16.png","sizes":"16x16","type":"image/png"}]
+19:["$","link","22",{"rel":"icon","href":"/hotel-landing-page-design/favicon.ico","sizes":"any"}]
+1a:["$","link","23",{"rel":"apple-touch-icon","href":"/hotel-landing-page-design/apple-touch-icon.png","sizes":"180x180"}]
+1b:["$","$L1f","24",{}]
+6:300
+1e:true
+6:C
+1d:0
+5:"$undefined"
+1c:"$undefined"
+10:"$undefined"

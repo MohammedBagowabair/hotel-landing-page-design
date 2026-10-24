@@ -1,0 +1,5 @@
+:HL["/hotel-landing-page-design/_next/static/chunks/2q_s1d-8v9r-z.css","style"]
+:HL["/hotel-landing-page-design/img/hero-1600.webp","image",{"media":"(max-width: 760px)"}]
+:HL["/hotel-landing-page-design/img/hero.webp","image",{"media":"(min-width: 761px)"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"bWju5r54Z1QaeXszZlBd4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
